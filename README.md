@@ -25,7 +25,7 @@ This project was collaboratively developed by:
 - **Deployment:** Vercel (Frontend), Render/Heroku (Backend)
 
 ## 📌 Contribution Highlights
-### **Your Contributions:**
+### **My Contributions:**
 ✅ Developed RESTful APIs for user authentication, product handling, and order management.  
 ✅ Implemented JWT-based authentication and role-based access control.  
 ✅ Optimized database queries for efficient order processing.  
